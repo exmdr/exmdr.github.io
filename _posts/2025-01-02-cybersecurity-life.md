@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-It marks my fist work anniversary for an industry leading global company in September 2024.
+It marks my first work anniversary for an industry leading global company in September 2024.
 
 <span class="spoiler">NTT DATA</span>, a leading global provider of trusted technology solutions, driving sustainable growth and positive societal impact through innovation. 
 
